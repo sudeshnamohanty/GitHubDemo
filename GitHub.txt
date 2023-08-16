@@ -1,0 +1,3 @@
+GitHub.txt File created in the github central repository, in order to check the following -
+How to pull the code when someone else make changes.
+Commit directly to the master branch
