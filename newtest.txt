@@ -1,1 +1,2 @@
 this is new txt file
+this is a new comment for this file.
